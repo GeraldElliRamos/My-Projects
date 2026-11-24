@@ -62,7 +62,7 @@ at the Technological Institute of the Philippines – Quezon City.
 My current capstone project involving the development of a
 mobile application.
 
-[View Repository](REPLACE_WITH_DERMASIGHT_LINK)
+[View Repository](https://github.com/karl1227/DermaSight)
 
 ### 2. Sophistique Luxe – E-Commerce Web Application
 **Role:** Full-Stack Developer
@@ -109,8 +109,8 @@ A collection of Python data analysis exercises and projects.
 ## 📫 Connect With Me
 
 - **GitHub:** https://github.com/GeraldElliRamos
-- **LinkedIn:** ADD_YOUR_LINKEDIN_URL
-- **Email:** ADD_YOUR_PROFESSIONAL_EMAIL
+- **LinkedIn:** https://www.linkedin.com/in/gerald-elli-ramos-735119342/
+- **Email:** qgetramos@tip.edu.ph/ramosgerald2003@gmail.com
 
 ---
 
