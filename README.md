@@ -2,11 +2,11 @@
 <h1 align="center">Hi, I'm Gerald Elli Ramos 👋</h1>
 
 <h3 align="center">
-  BS Information Technology Student | Aspiring Full-Stack Developer
+  Aspiring Full-Stack Developer | Data Analyst | Cybersecurity Professional
 </h3>
 
 <p align="center">
-  📍 Quezon City, Philippines
+  BS Information Technology Student | TIP Quezon City
 </p>
 
 ---
